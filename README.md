@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Yalla Super Mall](https://yallasupermall.com/)
 
-- 👨‍💻 All of my projects are available at [https://muhammaddanishnawaz.com/](https://danishnawaz.netlify.app)
+- 👨‍💻 All of my projects are available at [https://danishnawaz.netlify.app](https://danishnawaz.netlify.app)
 
 - 💬 Ask me about **MEAN , MERN , AWS , Azure**
 
